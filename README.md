@@ -263,15 +263,18 @@ CHAPTER 4: ANALYSIS AND RESULT
 Fig 1, highlight the change in the number of companies from different regions listed in the top 500 list between 2013 to 2022. The trend shows that there has been a continuous increase in the count of the companies in the list from Advance Asia region, which include- China, Japan, South Korea and Singapore, which is in contrast with those of Europe, U.S. and Other region
  
 for which count has decreased by the end of 2022. For emerging Asia region, which include- India, Thailand, Indonesia and Malaysia, the count is approximately constant.
+
 ![image](https://github.com/Pragati2693/Dissertation/assets/68961996/6ac22f71-4192-4498-b173-d569c013b5a2)
 
 
 
 Table 1, highlight that there has been approx. 22% increase for Advance Asian companies, 16% decrease for European companies, 19% decrease for other nation companies and only 6% decrease for U.S companies count in the Fortune Global 500 list from 2013 till 2022.
+
 ![image](https://github.com/Pragati2693/Dissertation/assets/68961996/7ffb5328-8505-4b16-8450-1cbf94e199d2)
 
 **Specific to Asian Companies**
 Table 2, shows that the count of Chinese companies in the list has increased more than 50% from 2013 but for Japan the count has decreased unlike all other nations in the same group of Advance Asia.
+
 ![image](https://github.com/Pragati2693/Dissertation/assets/68961996/cfa7b1cd-f562-4963-95d1-72b0729be7b8)
 
 
@@ -280,26 +283,28 @@ Table 2, shows that the count of Chinese companies in the list has increased mor
 
 
 Table 3, highlights that the count of the companies in the list for emerging Asian companies is constant except for a very small increase in the count of Indian company.
+
  ![image](https://github.com/Pragati2693/Dissertation/assets/68961996/de4142fb-fdc4-4cfe-961e-f0d4c877e3bf)
 
 
 ***Research Question 1.1: How does the financial performance of Asian companies compare to the global average and within Asia itself?***
 
 
-Table 4, shows that the average Profit share (in
-%), calculated as Sum of the profit/number of companies in each region, has decreased for Emerging Asian companies from 2013 to 2022. The Profit share has decreased for Asian companies but increased for other regions.
+Table 4, shows that the average Profit share (inn%), calculated as Sum of the profit/number of companies in each region, has decreased for Emerging Asian companies from 2013 to 2022. The Profit share has decreased for Asian companies but increased for other regions.
+
 ![image](https://github.com/Pragati2693/Dissertation/assets/68961996/85d0d5b5-2bcd-4e9a-a3b7-3bd706e2e193)
 
 
 
-Fig 2, shows that the Average Marginal profit, calculated as (Total Profit/Total Revenue)/Total number of companies for each region in 2013 and 2022, has increased more for European,
-U.S. and Other regions compared to that of the Asian companies.
+Fig 2, shows that the Average Marginal profit, calculated as (Total Profit/Total Revenue)/Total number of companies for each region in 2013 and 2022, has increased more for European,U.S. and Other regions compared to that of the Asian companies.
+
 ![image](https://github.com/Pragati2693/Dissertation/assets/68961996/386a0d2d-d202-4079-a215-1defff4d4aac)
 
 
 
 **Specific to Asian Companies**
 Fig 3 and Fig 4, shows that the Average Marginal Profit, calculated as (Total Profit/Total Revenue)/Total number of companies for each country of Advance and Emerging Asian region in 2013 and 2022, has decreased for China, Singapore, Malaysia and Indonesia while it increased for other country in 2022 compared to 2013.
+
 ![image](https://github.com/Pragati2693/Dissertation/assets/68961996/a04742bf-0c43-437c-b512-0961aa136399)
 
  
@@ -313,15 +318,18 @@ Also, from Fig 3 and Fig 4, it is observed that the sum of Average Profit Margin
 
 ***Research Question 1.2. What changes have taken place in both the sectoral makeup and profit margins (in context of sector) within Asian companies listed in the Fortune Global 500 over the last decade?***
 Fig 5. shows that count of companies Financial, Energy and Technology sector companies is higher compared to other sector in 2013 and 2022 but the count of companies in Health care sector has increased drastically in 2022 compared to 2013.
+
 ![image](https://github.com/Pragati2693/Dissertation/assets/68961996/e0deb509-2428-475c-adce-812d61336ddf)
 
  
 
 Table 5, highlights that decrease in the count of the companies under Energy sector showed by all the region, highest for Asian companies whereas for Health sector there is increase in the count for all the region and almost constant number for Technology sector from 2013 to 2033. Surprisingly, while European and U.S. companies showed decrease in the count of companies under Finance sector, Asian companies under Finance sector showed approx. 42% increase in the count from 2013 to 2022.
+
 ![image](https://github.com/Pragati2693/Dissertation/assets/68961996/48b3ee7f-7ea7-4562-b8f1-9707ebc8cac2)
 
 
 Table 6, shows that Average Marginal Profit, calculated as (Total Profit/ Total Revenue)/number of companies in each sector, has increased for all sector except for Health Care sector and it has sharply increased for Technology sector.
+
 ![image](https://github.com/Pragati2693/Dissertation/assets/68961996/b3d34526-b07b-4823-bfe2-ce720d90e2e2)
 
 
@@ -329,12 +337,14 @@ Table 6, shows that Average Marginal Profit, calculated as (Total Profit/ Total 
 
 ***Count of the companies in each sector specific to Asia***
 Fig 6. illustrates that there are 2 major nations in Advance Asia- China and Japan, with higher number of companies. The count of the companies in Energy sector has decreased in 2022 compared to that in 2013 for all countries while in the same year, 2022, the count for health care sector companies has increased. The count of Japanese company under Technology sector has drastically decreased, up to 67%, in 2022 compared to that in 2013. For China, the count of firms under financials sector has also increased to 27 which was 15 in 2013. This increase in the count of financial sector companies is contributed by China, South Korea and Taiwan.
+
  ![image](https://github.com/Pragati2693/Dissertation/assets/68961996/aed3a7ae-cbc8-4026-8f74-65170df5c685)
 
  
 
 
 Table 7 shows that the count of companies in Emerging Asian companies is almost same in 2013 and 2022. In the below table Health and Technology sector is not given because the count for these 2 sectors is 0.
+
 ![image](https://github.com/Pragati2693/Dissertation/assets/68961996/f98a269c-7c86-424e-9da6-abe3ae0bb5be)
 
 
@@ -349,6 +359,7 @@ Under Technology sector, there is sharp increase in the marginal profit from 201
 There is a rise in the profits margins in Technology sector from 2013 to 2022, despite a decline in Japanese company counts. Profit margins notably surged for all Advanced Asian companies in this sector, especially in 2022.
  
 ***Advance Asia***
+
 ![image](https://github.com/Pragati2693/Dissertation/assets/68961996/af16bec3-f1e2-488c-90ec-37e0dcb515b6)
 
 ![image](https://github.com/Pragati2693/Dissertation/assets/68961996/0ba34e51-ad2e-44a3-816d-8a431ea09265)
@@ -360,6 +371,7 @@ There is a rise in the profits margins in Technology sector from 2013 to 2022, d
 
 ***Emerging Asia***
 In Emerging Asian, from Fig 9 and Fig 10, the profit margin in 2022 under Finance sector for Indian company has decreased by more than half of that in 2013. While the technology sector seems to be profitable in recent year, no companies from Emerging Asia is listed in FG 500 list in 2022 which shows that Emerging Asian countries are not able to utilize the full potential in the technology sector market.
+
 ![image](https://github.com/Pragati2693/Dissertation/assets/68961996/3782451a-fbe1-496c-98f3-b4c9a0cd02f8)
 
 ![image](https://github.com/Pragati2693/Dissertation/assets/68961996/c5c3c6ed-5618-4899-8981-c0333ac10278)
@@ -376,41 +388,55 @@ In Emerging Asian, from Fig 9 and Fig 10, the profit margin in 2022 under Financ
 Overview on the survival of companies in FG 500 list from 2013 to 2022
 Fig 11. shows that there are 340 companies out of 500 companies existed in both 2013 and 2022 list while 160 companies existed in 2013 but fail to exist in 2022 list.
 
+![image](https://github.com/Pragati2693/Dissertation/assets/68961996/ad6ffcb9-2b8f-49c7-bc9b-433e57089fa6)
+
  
 Table 8, shows that out of Asian, U.S. and European region, the highest percentage of the companies not able to survive in both the list is from European region companies while the highest percentage of the companies able to survive in both the list is from Emerging Asia.
 
+![image](https://github.com/Pragati2693/Dissertation/assets/68961996/1d296337-2329-4be2-948f-18918af85d18)
 
 
 
-Specific to Asia
+***Specific to Asia***
 From Table 9, it is clear that a large number of the companies from Energy sector fail to exist in both 2013 and 2022 list while country wise a large number of Japanese companies fail to exist in both 2013 and 2022 list. Also, in Emerging Asia only 2 out of 11 companies fail to exists in both list.
 This could mean that Sector and Region of company might affect the longevity of a company in the FG 500 list. But this needs to be proved using quantitative method, so let’s further analyse the factors affecting the survival of the company in the list.
 
+![image](https://github.com/Pragati2693/Dissertation/assets/68961996/512c2a39-4f85-4e78-bead-c114ee1da929)
 
 
 
-Chi-square test: Testing if the survival of the company in the list is affected by its sector and Region it is from.
+
+***Chi-square test: Testing if the survival of the company in the list is affected by its sector and Region it is from.***
 Using SPSS, chi-square test is done on Sector and Region against Survival of the company. The result is as below:
-For Sector verses Status
+**For Sector verses Status**
 From Table 10, the result of Chi-Square Tests, with Pearson Chi-Square method p-value (Significance value) is 0.003 and with Likelihood ration method p-value is
 0.001. Since there are 15 cell or 35.7% of the cell, which is greater than 20%, having expected count <5, therefore we will consider p-value of Likelihood method. At 99% of C.I. p-value (0.001) is significant. Therefore, it is proved that survival of the company in the list is affected by the sector it belongs.
- 
 
-For Region verses Status
+![image](https://github.com/Pragati2693/Dissertation/assets/68961996/85181f36-99f1-4ec8-8c32-58fb5f401869)
+
+
+**For Region verses Status**
 From Table11, Chi-square test result, p- value with Pearson Chi-Square is .114, which shows that at 99% of C.I. or even at 95% C.I. it can be said that Region of the country has no effect on the survival of the company in the list. However, it is unlikely because company’s revenue is highly affected by the government laws and GDP of the region. Therefore, it can be said that, at 88% of C.I. it can be said that region does affect the survival of the company because p-value is 0.114 which is less than 0.12.
 
+![image](https://github.com/Pragati2693/Dissertation/assets/68961996/08b3585a-d138-4069-9420-91b359198544)
 
-Logistic regression: Testing if assets, revenue, number of employees and profit are significant factor for the survival of company in the list
+
+***Logistic regression: Testing if assets, revenue, number of employees and profit are significant factor for the survival of company in the list.***
+
 From below table 12, it is clear that at 95% of C.I. Revenue, Profit, and number of employees are significant factor for the survival of the company in the list because p-value of Revenue, profit and Employees is less than 0.05.
+
+![image](https://github.com/Pragati2693/Dissertation/assets/68961996/9dd8e5e8-7a32-40e6-ab2a-26cad04d2909)
 
 
 
 From the above result, it is clear that profit, revenue and number of employees affect the survival of the company and because FG 500 list s based in revenue so, revenue and profit are the obvious factor. But, let’s further analyse if the asset and number of employees affect the ranking of the company in the list.
-Correlation coefficient (r): Relation between number of employees, Assets and Ranking of company in the list.
-Below table shows the Pearson’s product correlation, r value for assets and employees again ranks of the company in 2013 and 2022. [Code and result are attached in appendix]. In the
- 
-result r- value is negative, means the higher the assets and number of employees value the lower is the rank.
+
+***Correlation coefficient (r): Relation between number of employees, Assets and Ranking of company in the list.***
+
+Below table shows the Pearson’s product correlation, r value for assets and employees again ranks of the company in 2013 and 2022. [Code and result are attached in appendix]. In the result r- value is negative, means the higher the assets and number of employees value the lower is the rank.
 In 2013, r value is same, -0.31, for both assets and employees, which means that both parameters equally affect the ranking of company but in 2022 the effect of assets on rank of the company is more than number of employees. Also, in the below result value of r is very less than -1, which shows that the relation between the Asset and Employees and Ranking of the company is not very strong.
+
+![image](https://github.com/Pragati2693/Dissertation/assets/68961996/de09cfc8-2d48-4b2a-a366-3d4f94abe699)
 
 
 
