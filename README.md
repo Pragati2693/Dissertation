@@ -63,7 +63,7 @@ Appendix	36
  
 The Fortune 500 Landscape (2013-2022): Unravelling Sectoral, Profitability, Geographic and Survival Insights with respect to Asian and Other firms
 
-#### **Abstract**
+### **Abstract**
 
 This dissertation examines the evolution of Asian companies in the Fortune Global 500 ranking from 2013 to 2022, reflecting Asia's increasing economic influence. It assesses various aspects like representation, financial performance, sectoral composition, and survival rates in comparison to global counterparts, with a focus on emerging Asian economies like India versus advanced nations like Japan and South Korea. Using a mixed methods approach involving quantitative analysis with Power BI and qualitative insights from academic literature, the study identifies rapid growth driven by China but also highlights challenges related to profitability, global expansion, and sectoral changes. The findings offer insights into growth sectors, survival rate differences, and strategic recommendations for enhanced competitiveness. Overall, the dissertation provides valuable perspectives on Asia's corporate landscape, with opportunities for further research and implications for academic scholars, Asian firms, and global business leaders.
 
