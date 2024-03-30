@@ -1,34 +1,64 @@
 # Dissertation
 The Fortune 500 Landscape (2013-2022): Unravelling Sectoral, Profitability, Geographic and Survival Insights with respect to Asian and Other firms
+
 Table of Contents
-Abstract	3
-CHAPTER 1: INTRODUCTION	4
+
+Abstract	
+
+CHAPTER 1: INTRODUCTION	
+
 1.1	Background	4
+
 1.1.1	Survival of companies and industrial shift	5
+
 1.2	Objective	5
+
 1.3	Research Questions	6
+
 1.4	Organization	6
+
 CHAPTER 2: LITERATURE REVIEW	7
+
 2.1	Shifting FG 500: Asian vs. Non-Asian Companies in the Last Decade	7
+
 2.1.1	Surge in the Asian companies count in last decade	7
+
 2.1.2	Comparing profit Margin: Advance vs. Emerging Asian companies	8
+
 2.1.3	Shift in Asian companies’ sector over the last decade	9
+
 2.1.4.	Growth in Tech Sector’s Marginal Profit over past decade	9
+
 2.2.	Survival analysis: FG 500 companies 2013-2022	10
+
 CHAPTER 3: METHODOLOGY	12
+
 3.1	Relationship between indicators: Chi-square test and Logistic Regression	13
+
 3.1.1	Correlation between ranking and number of employee and assets	13
+
 3.2	Qualitative Approach	14
+
 3.3	Data source	14
+
 Structure of dataset	14
+
 3.4	Ethical Consideration	15
+
 CHAPTER 4: ANALYSIS AND RESULT	15
+
 4.1.	Analysis	15
+
 4.2.	Result	25
+
 CHAPTER 5: DISCUSSION AND CONCLUSION	26
+
 5.1	Discussion	26
+
 5.2	Conclusion	29
+
 References	29
+
 Appendix	36
  
 The Fortune 500 Landscape (2013-2022): Unravelling Sectoral, Profitability, Geographic and Survival Insights with respect to Asian and Other firms
